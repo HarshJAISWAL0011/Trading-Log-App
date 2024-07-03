@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "367637027410",
+    "firebase_url": "https://coindcx-dda25-default-rtdb.firebaseio.com",
+    "project_id": "coindcx-dda25",
+    "storage_bucket": "coindcx-dda25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367637027410:android:405b9e3304914431a2dd8b",
+        "android_client_info": {
+          "package_name": "com.example.dcxlogs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqXm7eG3mjyHmpadUCMM720P5CwHMd3B8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
